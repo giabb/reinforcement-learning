@@ -39,8 +39,8 @@ The environment where the tests are taken is the MuJoCo environment [Ant-v2](htt
 
 The observation space is a 111-dim space:
 
-|          Torso Height         |  1  |
 |:-----------------------------:|:---:|
+|          Torso Height         |  1  |
 |       Torso Orientation       |  4  |
 |          Joint Angles         |  8  |
 | Velocities (angular + linear) |  6  |
