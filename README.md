@@ -39,6 +39,7 @@ The environment where the tests are taken is the MuJoCo environment [Ant-v2](htt
 
 The observation space is a 111-dim space:
 
+|	  Total dimension 	| 111 |
 |:-----------------------------:|:---:|
 |          Torso Height         |  1  |
 |       Torso Orientation       |  4  |
@@ -46,7 +47,6 @@ The observation space is a 111-dim space:
 | Velocities (angular + linear) |  6  |
 |        Joint Velocities       |  8  |
 |        External Forces        |  84 |
-|        Total dimension        | 111 |
 
 The reward function is [defined here](https://github.com/openai/gym/blob/master/gym/envs/mujoco/ant.py#L10) .
 
