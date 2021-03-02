@@ -35,7 +35,7 @@ The environment where the tests are taken is the MuJoCo environment [Ant-v2](htt
 
 
 <img src="https://raw.githubusercontent.com/giabb/reinforcement-learning/main/md_media/ant.jpg" alt="img_ant" width="200" height="200">
-ì
+
 
 The observation space is a 111-dim space:
 
