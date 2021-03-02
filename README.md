@@ -33,7 +33,7 @@ The project contains only a Jupyter Notebook file. Meet the prerequisite and use
 
 The environment where the tests are taken is the MuJoCo environment [Ant-v2](https://gym.openai.com/envs/Ant-v2/) . The target of this environment is to let the Ant walk as fast as possible, as long as possible. The ant is a hierarchical structure with the "torso" as the main object, and the 4 legs as the children:
 
-![img_ant](https://raw.githubusercontent.com/giabb/reinforcement-learning/main/md_media/ant.jpg = 200x)
+![img_ant](https://raw.githubusercontent.com/giabb/reinforcement-learning/main/md_media/ant.jpg =200x)
 
 The observation space is a 111-dim space:
 
